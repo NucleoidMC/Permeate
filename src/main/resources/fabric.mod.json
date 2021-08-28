@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "permeate",
+	"version": "${version}",
+	"name": "Permeate",
+	"description": "A large-scale world modification tool.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Permeate#readme",
+		"issues": "https://github.com/haykam821/Permeate/issues"
+	},
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.permeate.Main"
+		]
+	},
+	"mixins": [
+		"permeate.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/permeate/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}

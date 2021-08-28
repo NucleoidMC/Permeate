@@ -1,0 +1,9 @@
+{
+	"text.permeate.editor_state.no_selection": "There is no current selection",
+	"text.permeate.editor_state.not_editor": "An editor is required to run this command",
+	"text.permeate.selection.clear.success": "Cleared the current selection",
+	"text.permeate.selection.success": "Selected %s blocks",
+	"text.permeate.selection.success.singular": "Selected a block",
+	"text.permeate.set.success": "Set %s blocks",
+	"text.permeate.set.success.singular": "Set a block"
+}
